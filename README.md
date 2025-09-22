@@ -27,10 +27,15 @@ Hi there! 👋 I'm a passionate data science professional with a strong interest
 ### **Certifications** 📜
 
 I believe in continuous learning. Here are some of my recent certifications:
-**Machine Learning Using Python**
-
-![Machine Learning Certificate](ml.png)
-
-**Active Participant in #60DaysOfLearning2025**
-
-![60DaysOfLearning Certificate](leapfrog.jpeg)
+<table>
+  <tr>
+    <td align="center">
+      <b>Machine Learning Using Python</b><br>
+      <img src="ml.png" alt="Machine Learning Certificate" width="300px">
+    </td>
+    <td align="center">
+      <b>Active Participant in #60DaysOfLearning2025</b><br>
+      <img src="leapfrog.jpeg" alt="60DaysOfLearning Certificate" width="300px">
+    </td>
+  </tr>
+</table>
