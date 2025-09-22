@@ -27,6 +27,10 @@ Hi there! 👋 I'm a passionate data science professional with a strong interest
 ### **Certifications** 📜
 
 I believe in continuous learning. Here are some of my recent certifications:
+**Machine Learning Using Python**
 
-* **Machine Learning Using Python** (Simplilearn SkillUP)
-* **Active Participant in #60DaysOfLearning2025** (Leapfrog) https://github.com/poudelaman4/poudelaman4/blob/main/leapfrog.jpeg?raw=true
+![Machine Learning Certificate](ml.jpeg)
+
+**Active Participant in #60DaysOfLearning2025**
+
+![60DaysOfLearning Certificate](leapfrog.jpeg)
